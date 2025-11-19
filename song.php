@@ -127,7 +127,7 @@ echo "</div>";
 
 // Pre-Chorus 1
 echo "<h3>Pre-Chorus</h3><div class='prechorus'>";
-echo "<p>$preChorus1[0]</p>";
+echo "<p>$preChorus1[0] </p>";
 echo "<p>$preChorus1[1]</p>";
 echo "<p>$preChorus1[2]</p>";
 echo "</div>";
@@ -149,11 +149,11 @@ echo "<p>$verse2[3]</p>";
 echo "</div>";
 
 // Pre-Chorus 2
-echo "<h3>Pre-Chorus</h3><div class='prechorus'>";
+echo "<h3>Pre-Chorus</h3><div class='prechorus' >";
 echo "<p>$preChorus2[0]</p>";
 echo "<p>$preChorus2[1]</p>";
 echo "<p>$preChorus2[2]</p>";
-echo "</div>";
+echo " </div>";
 
 // Chorus 2
 echo "<h3>Chorus</h3><div class='chorus'>";
@@ -161,11 +161,11 @@ echo "<p>$chorus[0]</p>";
 echo "<p>$chorus[1]</p>";
 echo "<p>$chorus[2]</p>";
 echo "<p>$chorus[3]</p>";
-echo "</div>";
+echo "</div>" ;
 
 // Outro
 echo "<h3>Outro</h3><div class='outro'>";
-echo "<p>$outro[0]</p>";
+echo "<p>$outro[0]</p>" ;
 echo "<p>$outro[1]</p>";
 echo "<p>$outro[2]</p>";
 echo "<p>$outro[3]</p>";
